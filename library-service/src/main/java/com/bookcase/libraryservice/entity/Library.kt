@@ -1,7 +1,7 @@
 package com.bookcase.libraryservice.entity
 
-import jakarta.persistence.*
 import org.hibernate.annotations.GenericGenerator
+import javax.persistence.*
 
 @Entity
 data class Library @JvmOverloads constructor(
