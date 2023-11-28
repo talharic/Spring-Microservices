@@ -9,6 +9,7 @@
 - Fault Tolerance
 - Distributed Log Trace
 - Zipkin Server - Client
+- Vault - gRPC
 
 
 ### Project Flow
